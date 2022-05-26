@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ponto Remoto", "Ponto Remoto\Ponto Remoto.csproj", "{EC894981-26B0-4DB5-9B9E-45F760C641E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC894981-26B0-4DB5-9B9E-45F760C641E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC894981-26B0-4DB5-9B9E-45F760C641E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC894981-26B0-4DB5-9B9E-45F760C641E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC894981-26B0-4DB5-9B9E-45F760C641E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9256CF40-16A3-4AFE-80F7-15AA95C70D82}
+	EndGlobalSection
+EndGlobal
