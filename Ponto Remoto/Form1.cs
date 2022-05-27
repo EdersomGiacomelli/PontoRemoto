@@ -40,7 +40,12 @@ namespace Ponto_Remoto
         public static void conectar()
         {
             //cria string de conexão ao BD
-            string strCon = @"server=127.0.0.1;user id=root;Pwd=masterkey;persistsecurityinfo=True;";
+            //criar servidor no pc de casa para teste
+
+            // utilizar o ip da maquina que fica o servidor
+            //liberar a porta 3306 para acesso remoto
+            //modificar no App config as informações de conexão
+            string strCon = @"server=192.168.0.2;user id=usuario;Pwd=1234;persistsecurityinfo=True;";
 
 
             //estabelece parametros de conexão ao banco
