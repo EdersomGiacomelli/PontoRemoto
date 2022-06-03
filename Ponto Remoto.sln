@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.32413.511
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ponto Remoto", "Ponto Remoto\Ponto Remoto.csproj", "{EC894981-26B0-4DB5-9B9E-45F760C641E4}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PontoRemotoInstalador", "PontoRemotoInstalador\PontoRemotoInstalador.vdproj", "{D5272D01-F02C-4A95-82AB-D3C91ADFCCF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{EC894981-26B0-4DB5-9B9E-45F760C641E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC894981-26B0-4DB5-9B9E-45F760C641E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC894981-26B0-4DB5-9B9E-45F760C641E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5272D01-F02C-4A95-82AB-D3C91ADFCCF1}.Debug|Any CPU.ActiveCfg = Debug
+		{D5272D01-F02C-4A95-82AB-D3C91ADFCCF1}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

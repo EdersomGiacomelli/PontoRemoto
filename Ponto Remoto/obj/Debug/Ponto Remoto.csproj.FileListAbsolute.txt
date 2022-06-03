@@ -1,4 +1,3 @@
-C:\Users\sergi\source\repos\Ponto Remoto\Ponto Remoto\obj\Debug\Ponto Remoto.csproj.AssemblyReference.cache
 C:\Users\sergi\source\repos\Ponto Remoto\Ponto Remoto\obj\Debug\Ponto Remoto.exe.config
 C:\Users\sergi\source\repos\Ponto Remoto\Ponto Remoto\obj\Debug\Ponto_Remoto.Form1.resources
 C:\Users\sergi\source\repos\Ponto Remoto\Ponto Remoto\obj\Debug\Ponto_Remoto.Properties.Resources.resources

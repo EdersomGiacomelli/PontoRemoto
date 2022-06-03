@@ -40,12 +40,17 @@ namespace Ponto_Remoto
         public static void conectar()
         {
             //cria string de conexão ao BD
-            //criar servidor no pc de casa para teste
+            //Alterar App.config
 
-            // utilizar o ip da maquina que fica o servidor
-            //liberar a porta 3306 para acesso remoto
+            // utilizar o ip da maquina que fica o servidor(verificar ip fixo)
+            //liberar a porta 3306 para acesso remoto - link abaixo
+            //https://www.techtudo.com.br/noticias/2011/05/como-configurar-um-ip-fixo-no-windows-7.ghtml
+
             //modificar no App config as informações de conexão
-            string strCon = @"server=192.168.0.2;user id=usuario;Pwd=1234;persistsecurityinfo=True;";
+            //criar usuario para acesso remoto no mysql - link abaixo
+            //https://www.hostinger.com.br/tutoriais/como-criar-usuario-mysql-e-conceder-privilegios#:~:text=Ent%C3%A3o%20execute%20o%20seguinte%20comando,de%20acesso%20para%20esse%20usu%C3%A1rio.
+
+            string strCon = @"server=192.168.25.6;user id=usuario;Pwd=1234;persistsecurityinfo=True;";
 
 
             //estabelece parametros de conexão ao banco
